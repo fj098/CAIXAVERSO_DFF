@@ -1,0 +1,15 @@
+-------------------------------------------------------
+          	COMANDOS GIT
+-------------------------------------------------------
+git init . 	-> transforma a pasta em repositório git
+git status	-> mostra o estado atual do repositório
+git status -s	-> estado atual compacto
+git add	 	-> prepara o arquivo para o commit
+git add . 	-> prepara todos os arquivos do repositório atual para o commit
+git commit -m	-> grava as mudanças no histórico
+git log		-> mostra o histórico de commits
+git diff	-> mostra as mudanças do estado atual para o estado do último commit
+git reset	-> remove o arquivo da área de staging
+git checkout main	->  muda para a branch main
+git merge	-> mescla o conteúdo de duas branches diferentes em uma só
+-------------------------------------------------------
