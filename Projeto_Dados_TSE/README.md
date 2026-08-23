@@ -1,7 +1,11 @@
 # Projeto Final - Técnicas de Programação I (PY)
+
 ## Análise exploratória de dados com Python, NumPy, Pandas e Git
 
-## Base escolhida
+### Nome do projeto: 
+Análise das Candidaturas - Eleição 2022
+
+### Base escolhida:
 Dados dos candidatos da eleição de 2022 disponibilizados pelo TSE.
 O arquivo possui ??? linhas e ??? colunas
 
