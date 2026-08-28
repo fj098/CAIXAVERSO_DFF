@@ -7,6 +7,9 @@ O objetivo é realizar uma análise exploratória de dados utilizando Python, Pa
 
 ## Bases utilizadas
 
+### Link:
+https://dadosabertos.tse.jus.br/dataset/candidatos-2022
+
 ### Base principal:
 consulta_cand_2022_BRASIL.csv: contém informações gerais das candidaturas
 
