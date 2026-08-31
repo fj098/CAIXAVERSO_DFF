@@ -17,7 +17,9 @@ consulta_cand_2022_BRASIL.csv: contém informações gerais das candidaturas
 consulta_cand_complementar_2022_BRASIL.csv: utilizada para informaçãoes de idade e valor de despesa
 
 ## Autores
+Denise Macedo
 Felipe Albanez de Oliveira
+Fabricio Jose Garces Chaves
 
 
 
