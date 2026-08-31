@@ -17,20 +17,9 @@ consulta_cand_2022_BRASIL.csv: contém informações gerais das candidaturas
 consulta_cand_complementar_2022_BRASIL.csv: utilizada para informaçãoes de idade e valor de despesa
 
 ## Autores
-Denise Macedo
+
+Denise Reis Macedo
+
 Felipe Albanez de Oliveira
+
 Fabricio Jose Garces Chaves
-
-
-
-### Como acessar o rep, clonar e criar uma nova branch
-
-Criar pasta na sua máquina local
-Acessar o terminal
-cd Github  -> acessa a pasta criada
-pwd -> vizualisa e confirma se está na pasta correta
-git clone https://github.com/fj098/CAIXAVERSO_DFF > traz os arquivos da branch main para a máquina local
-ls -> verifica os arquivos dentro da pasta
-cd CAIXAVERSO_DFF  -> acessa a pasta do repositório
-ls -> verifica os arquivos dentro da pasta
-git checkout -b nome-da-branch     -> cria e acessa a nova branch
